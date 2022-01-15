@@ -1,5 +1,5 @@
-# Página de resumo de pedido feita em HTML e CSS
+# Frontend Mentor - Order summary card solution
 
-![order-desktop](https://user-images.githubusercontent.com/97133261/149607478-ff33fb9b-a5f6-42b8-bd14-ea17ac0cf122.jpg)
-
+### Screenshot
+![image](https://user-images.githubusercontent.com/97133261/149622938-1a3f58cf-e211-42e9-bf3a-65e414c38341.png)
 
